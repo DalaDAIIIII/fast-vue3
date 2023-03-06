@@ -23,6 +23,7 @@
     "@vueuse/core": "^9.6.0",
     "axios": "^1.2.0",
     "dayjs": "^1.11.6",
+    "echarts": "^5.4.1",
     "element-plus": "^2.2.22",
     "mitt": "^3.0.0",
     "pinia": "^2.0.26",
